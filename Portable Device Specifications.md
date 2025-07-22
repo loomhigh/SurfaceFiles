@@ -33,6 +33,6 @@
 - **X** no calling SIM
 - **X** Not backed up
   - Create github repo that syncs all useful config files.
-- **X** Zotero not set up
+- **Y** Zotero set up
 - **X** GSconnect not setup
 - **X** NixOS Flake not working.
