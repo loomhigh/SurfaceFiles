@@ -12,6 +12,7 @@ fish 4.0.2-1
 gdm 48.0-2
 git 2.50.1-1
 gnome-backgrounds 48.2.1-1
+gnome-browser-connector 42.1-7
 gnome-characters 48.0-1
 gnome-color-manager 3.36.2-1
 gnome-connections 48.0-6
@@ -74,9 +75,11 @@ tecla 48.0.2-1
 tkpacman 1.9.1-2
 totem 43.2-1
 ttf-comic-mono-git r30.6a133be-1
+universal-android-debloater-git 1.1.2.r80.gd471b79-1
 virt-manager 5.0.0-1
 vscodium 1.100.33714-1
 xdg-desktop-portal-gnome 48.0-2
 xdg-user-dirs-gtk 0.14-1
 yay 12.5.0-1
 yay-debug 12.5.0-1
+zotero 7.0.19-1

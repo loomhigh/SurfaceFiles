@@ -1,5 +1,8 @@
 # Ideal production device specifications
 
+## commands to know ##
+pacman -Qe > /home/loomhigh/Documents/SurfaceFiles/packages.txt
+
 ## Device requirements:
   - Long battery life
     - Use an ARM CPU
